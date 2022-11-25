@@ -1,0 +1,63 @@
+{
+        "entity_extract": [
+                {"query": "person"},
+                {"query": "diagnosis"},
+                {"query": "medication"},
+                {"query": "labtest"},
+                {"query": "procedure"}],
+
+        "relation_extract": [
+                {"query": "person_diagnosis", "sub": "person", "obj": "diagnosis"},
+                {"query": "person_medication", "sub": "person", "obj": "medication"},
+                {"query": "person_labtest", "sub": "person", "obj": "labtest"},
+                {"query": "person_procedure", "sub": "person", "obj": "procedure"}],
+
+        "feature_extract": [
+                {"query": "person_features"},
+                {"query": "atc_code_features"}],
+
+        "entities": [
+                {"file_name": "person", "name": "person", "alias": "S"},
+                {"file_name": "diagnosis", "name": "diagnosis", "alias": "D"},
+                {"file_name": "medication", "name": "medication", "alias": "M"},
+                {"file_name": "labtest", "name": "labtest", "alias": "L"},
+                {"file_name": "procedure", "name": "procedure", "alias": "P"}
+        ],
+
+        "relations": [
+                {"file_name": "person_diagnosis", "sub": "person", "obj": "diagnosis", "relation_name": "S-D", "direction": "bidirectional"},
+                {"file_name": "person_medication", "sub": "person", "obj": "medication", "relation_name": "S-M", "direction": "bidirectional"},
+                {"file_name": "person_labtest", "sub": "person", "obj": "labtest", "relation_name": "S-L", "direction": "bidirectional"},
+                {"file_name": "person_procedure", "sub": "person", "obj": "procedure", "relation_name": "S-P", "direction": "bidirectional"}
+        ],
+
+        "aux_features": [
+                                {"data_file": "person_features", "entity": "person", "function": "person_attributes"},
+                {"data_file": "atc_code_features", "entity": "medication", "function": "medication_atc_hierarchy"},
+                {"data_file": "", "entity": "labtest", "function": "labtest_loinc_hierarchy"},
+                {"data_file": "", "entity": "procedure", "function": "procedure_icd_hierarchy"},
+                {"data_file": "", "entity": "diagnosis", "function": "diagnosis_icd_hierarchy"}
+        ],
+
+        "aux_relations": [
+                {"data_file": "midi_hps", "sub": "medication", "obj": "diagnosis", "direction":  "bidirectional", "function": "medi"}
+        ],
+
+        "general": {
+                "diag_level": 3,
+                "aux_relations": false,
+                "aux_features": true,
+                "feature_scale": false,
+
+                "plot_aux_feats": false
+        },
+
+        "_aux_features": [
+                {"data_file": "person_features", "entity": "person", "function": "person_attributes"},
+                {"data_file": "atc_code_features", "entity": "medication", "function": "medication_atc_hierarchy"},
+                {"data_file": "", "entity": "labtest", "function": "labtest_loinc_hierarchy"},
+                {"data_file": "", "entity": "procedure", "function": "procedure_icd_hierarchy"},
+                {"data_file": "", "entity": "diagnosis", "function": "diagnosis_icd_hierarchy"},
+                {"data_file": "", "entity": "all", "function": "graphlets"}
+        ]
+}

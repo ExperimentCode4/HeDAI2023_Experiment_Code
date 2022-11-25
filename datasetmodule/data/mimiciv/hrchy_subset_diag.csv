@@ -1,0 +1,985 @@
+CHILD;PARENT;DESCR
+001-139;ROOT;Infectious And Parasitic Diseases
+042-042;001-139;Human Immunodeficiency Virus
+042;042-042;Human immunodeficiency virus [HIV] disease
+130-136;001-139;Other Infectious And Parasitic Diseases
+135;130-136;Sarcoidosis
+140-239;ROOT;Neoplasms
+179-189;140-239;Malignant Neoplasm Of Genitourinary Organs
+185;179-189;Malignant neoplasm of prostate
+190-199;140-239;Malignant Neoplasm Of Other And Unspecified Sites
+193;190-199;Malignant neoplasm of thyroid gland
+240-279;ROOT;Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders
+260-269;240-279;Nutritional Deficiencies
+261;260-269;Nutritional marasmus
+320-389;ROOT;Diseases Of The Nervous System And Sense Organs
+340-349;320-389;Other Disorders Of The Central Nervous System
+340;340-349;Multiple sclerosis
+390-459;ROOT;Diseases Of The Circulatory System
+410-414;390-459;Ischemic Heart Disease
+412;410-414;Old myocardial infarction
+430-438;390-459;Cerebrovascular Disease
+430;430-438;Subarachnoid hemorrhage
+431;430-438;Intracerebral hemorrhage
+451-459;390-459;Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System
+452;451-459;Portal vein thrombosis
+460-519;ROOT;Diseases Of The Respiratory System
+460-466;460-519;Acute Respiratory Infections
+462;460-466;Acute pharyngitis
+480-488;460-519;Pneumonia And Influenza
+486;480-488;Pneumonia, organism unspecified
+490-496;460-519;Chronic Obstructive Pulmonary Disease And Allied Conditions
+496;490-496;Chronic airway obstruction, not elsewhere classified
+510-519;460-519;Other Diseases Of Respiratory System
+514;510-519;Pulmonary congestion and hypostasis
+515;510-519;Postinflammatory pulmonary fibrosis
+520-579;ROOT;Diseases Of The Digestive System
+570-579;520-579;Other Diseases Of Digestive System
+570;570-579;Acute and subacute necrosis of liver
+580-629;ROOT;Diseases Of The Genitourinary System
+590-599;580-629;Other Diseases Of Urinary System
+591;590-599;Hydronephrosis
+710-739;ROOT;Diseases Of The Musculoskeletal System And Connective Tissue
+725-729;710-739;Rheumatism, Excluding The Back
+725;725-729;Polymyalgia rheumatica
+760-779;ROOT;Certain Conditions Originating In The Perinatal Period
+764-779;760-779;Other Conditions Originating In The Perinatal Period
+769;764-779;Respiratory distress syndrome in newborn
+001-009;001-139;Intestinal Infectious Diseases
+008;001-009;Intestinal infections due to other organisms
+0088;008;Intestinal infection due to other organism, not elsewhere classified
+030-041;001-139;Other Bacterial Diseases
+038;030-041;Septicemia
+0380;038;Streptococcal septicemia
+0389;038;Unspecified septicemia
+041;030-041;Bacterial infection in conditions classified elsewhere and of unspecified site
+0413;041;FriedlÃ¤nder's bacillus infection in conditions classified elsewhere and of unspecified site
+0416;041;Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site
+0417;041;Pseudomonas infection in conditions classified elsewhere and of unspecified site
+050-059;001-139;Viral Diseases Accompanied By Exanthem
+053;050-059;Herpes zoster
+0539;053;Herpes zoster without mention of complication
+054;050-059;Herpes simplex
+0549;054;Herpes simplex without mention of complication
+110-118;001-139;Mycoses
+112;110-118;Candidiasis
+1120;112;Candidiasis of mouth
+1122;112;Candidiasis of other urogenital sites
+1123;112;Candidiasis of skin and nails
+150-159;140-239;Malignant Neoplasm Of Digestive Organs And Peritoneum
+155;150-159;Malignant neoplasm of liver and intrahepatic bile ducts
+1550;155;Malignant neoplasm of liver, primary
+157;150-159;Malignant neoplasm of pancreas
+1570;157;Malignant neoplasm of head of pancreas
+1579;157;Malignant neoplasm of pancreas, part unspecified
+160-165;140-239;Malignant Neoplasm Of Respiratory And Intrathoracic Organs
+162;160-165;Malignant neoplasm of trachea bronchus and lung
+1623;162;Malignant neoplasm of upper lobe, bronchus or lung
+1625;162;Malignant neoplasm of lower lobe, bronchus or lung
+1628;162;Malignant neoplasm of other parts of bronchus or lung
+1629;162;Malignant neoplasm of bronchus and lung, unspecified
+170-176;140-239;Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast
+174;170-176;Malignant neoplasm of female breast
+1748;174;Malignant neoplasm of other specified sites of female breast
+1749;174;Malignant neoplasm of breast (female), unspecified
+183;179-189;Malignant neoplasm of ovary and other uterine adnexa
+1830;183;Malignant neoplasm of ovary
+189;179-189;Malignant neoplasm of kidney and other and unspecified urinary organs
+1890;189;Malignant neoplasm of kidney, except pelvis
+196;190-199;Secondary and unspecified malignant neoplasm of lymph nodes
+1961;196;Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+1962;196;Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+1963;196;Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+197;190-199;Secondary malignant neoplasm of respiratory and digestive systems
+1970;197;Secondary malignant neoplasm of lung
+1972;197;Secondary malignant neoplasm of pleura
+1976;197;Secondary malignant neoplasm of retroperitoneum and peritoneum
+1977;197;Malignant neoplasm of liver, secondary
+1978;197;Secondary malignant neoplasm of other digestive organs and spleen
+198;190-199;Secondary malignant neoplasm of other specified sites
+1983;198;Secondary malignant neoplasm of brain and spinal cord
+1985;198;Secondary malignant neoplasm of bone and bone marrow
+1987;198;Secondary malignant neoplasm of adrenal gland
+199;190-199;Malignant neoplasm without specification of site
+1991;199;Other malignant neoplasm without specification of site
+210-229;140-239;Benign Neoplasms
+211;210-229;Benign neoplasm of other parts of digestive system
+2113;211;Benign neoplasm of colon
+218;210-229;Uterine leiomyoma
+2181;218;Intramural leiomyoma of uterus
+2189;218;Leiomyoma of uterus, unspecified
+225;210-229;Benign neoplasm of brain and other parts of nervous system
+2252;225;Benign neoplasm of cerebral meninges
+235-238;140-239;Neoplasms Of Uncertain Behavior
+238;235-238;Neoplasm of uncertain behavior of other and unspecified sites and tissues
+2384;238;Polycythemia vera
+240-246;240-279;Disorders Of Thyroid Gland
+241;240-246;Nontoxic nodular goiter
+2410;241;Nontoxic uninodular goiter
+2411;241;Nontoxic multinodular goiter
+244;240-246;Acquired hypothyroidism
+2440;244;Postsurgical hypothyroidism
+2449;244;Unspecified acquired hypothyroidism
+249-259;240-279;Diseases Of Other Endocrine Glands
+251;249-259;Other disorders of pancreatic internal secretion
+2512;251;Hypoglycemia, unspecified
+253;249-259;Disorders of the pituitary gland and its hypothalamic control
+2536;253;Other disorders of neurohypophysis
+256;249-259;Ovarian dysfunction
+2564;256;Polycystic ovaries
+257;249-259;Testicular dysfunction
+2572;257;Other testicular hypofunction
+263;260-269;Other and unspecified protein-calorie malnutrition
+2630;263;Malnutrition of moderate degree
+2639;263;Unspecified protein-calorie malnutrition
+266;260-269;Deficiency of b-complex components
+2662;266;Other B-complex deficiencies
+268;260-269;Vitamin d deficiency
+2689;268;Unspecified vitamin D deficiency
+270-279;240-279;Other Metabolic Disorders And Immunity Disorders
+272;270-279;Disorders of lipoid metabolism
+2720;272;Pure hypercholesterolemia
+2721;272;Pure hyperglyceridemia
+2724;272;Other and unspecified hyperlipidemia
+273;270-279;Disorders of plasma protein metabolism
+2731;273;Monoclonal paraproteinemia
+2738;273;Other disorders of plasma protein metabolism
+274;270-279;Gout
+2749;274;Gout, unspecified
+275;270-279;Disorders of mineral metabolism
+2752;275;Disorders of magnesium metabolism
+2753;275;Disorders of phosphorus metabolism
+276;270-279;Disorders of fluid electrolyte and acid-base balance
+2760;276;Hyperosmolality and/or hypernatremia
+2761;276;Hyposmolality and/or hyponatremia
+2762;276;Acidosis
+2763;276;Alkalosis
+2764;276;Mixed acid-base balance disorder
+2767;276;Hyperpotassemia
+2768;276;Hypopotassemia
+280-289;ROOT;Diseases Of The Blood And Blood-Forming Organs
+280--289;280-289;Diseases Of The Blood And Blood-Forming Organs
+280;280--289;Iron deficiency anemias
+2800;280;Iron deficiency anemia secondary to blood loss (chronic)
+2809;280;Iron deficiency anemia, unspecified
+281;280--289;Other deficiency anemias
+2811;281;Other vitamin B12 deficiency anemia
+2819;281;Unspecified deficiency anemia
+282;280--289;Hereditary hemolytic anemias
+2825;282;Sickle-cell trait
+285;280--289;Other and unspecified anemias
+2851;285;Acute posthemorrhagic anemia
+2853;285;Antineoplastic chemotherapy induced anemia
+2859;285;Anemia, unspecified
+286;280--289;Coagulation defects
+2866;286;Defibrination syndrome
+2867;286;Acquired coagulation factor deficiency
+2869;286;Other and unspecified coagulation defects
+287;280--289;Purpura and other hemorrhagic conditions
+2875;287;Thrombocytopenia, unspecified
+288;280--289;Diseases of white blood cells
+2883;288;Eosinophilia
+320-327;320-389;Inflammatory Diseases Of The Central Nervous System
+324;320-327;Intracranial and intraspinal abscess
+3241;324;Intraspinal abscess
+330-337;320-389;Hereditary And Degenerative Diseases Of The Central Nervous System
+331;330-337;Other cerebral degenerations
+3310;331;Alzheimer's disease
+3314;331;Obstructive hydrocephalus
+332;330-337;Parkinson's disease
+3320;332;Paralysis agitans
+333;330-337;Other extrapyramidal disease and abnormal movement disorders
+3331;333;Essential and other specified forms of tremor
+337;330-337;Disorders of the autonomic nervous system
+3371;337;Peripheral autonomic neuropathy in disorders classified elsewhere
+338-338;320-389;Pain
+338;338-338;Pain, not elsewhere classified
+3383;338;Neoplasm related pain (acute) (chronic)
+3384;338;Chronic pain syndrome
+344;340-349;Other paralytic syndromes
+3441;344;Paraplegia
+348;340-349;Other conditions of brain
+3481;348;Anoxic brain damage
+3484;348;Compression of brain
+3485;348;Cerebral edema
+350-359;320-389;Disorders Of The Peripheral Nervous System
+355;350-359;Mononeuritis of lower limb and unspecified site
+3558;355;Mononeuritis of lower limb, unspecified
+3559;355;Mononeuritis of unspecified site
+356;350-359;Hereditary and idiopathic peripheral neuropathy
+3569;356;Unspecified hereditary and idiopathic peripheral neuropathy
+357;350-359;Inflammatory and toxic neuropathy
+3572;357;Polyneuropathy in diabetes
+360-379;320-389;Disorders Of The Eye And Adnexa
+365;360-379;Glaucoma
+3659;365;Unspecified glaucoma
+366;360-379;Cataract
+3669;366;Unspecified cataract
+368;360-379;Visual disturbances
+3682;368;Diplopia
+3688;368;Other specified visual disturbances
+369;360-379;Blindness and low vision
+3694;369;Legal blindness, as defined in U.S.A.
+380-389;320-389;Diseases Of The Ear And Mastoid Process
+389;380-389;Hearing loss
+3899;389;Unspecified hearing loss
+393-398;390-459;Chronic Rheumatic Heart Disease
+396;393-398;Diseases of mitral and aortic valves
+3962;396;Mitral valve insufficiency and aortic valve stenosis
+3963;396;Mitral valve insufficiency and aortic valve insufficiency
+397;393-398;Diseases of other endocardial structures
+3970;397;Diseases of tricuspid valve
+401-405;390-459;Hypertensive Disease
+401;401-405;Essential hypertension
+4011;401;Benign essential hypertension
+4019;401;Unspecified essential hypertension
+411;410-414;Other acute and subacute forms of ischemic heart disease
+4111;411;Intermediate coronary syndrome
+413;410-414;Angina pectoris
+4139;413;Other and unspecified angina pectoris
+414;410-414;Other forms of chronic ischemic heart disease
+4142;414;Chronic total occlusion of coronary artery
+4148;414;Other specified forms of chronic ischemic heart disease
+415-417;390-459;Diseases Of Pulmonary Circulation
+416;415-417;Chronic pulmonary heart disease
+4168;416;Other chronic pulmonary heart diseases
+420-429;390-459;Other Forms Of Heart Disease
+421;420-429;Acute and subacute endocarditis
+4210;421;Acute and subacute bacterial endocarditis
+423;420-429;Other diseases of pericardium
+4239;423;Unspecified disease of pericardium
+424;420-429;Other diseases of endocardium
+4240;424;Mitral valve disorders
+4241;424;Aortic valve disorders
+425;420-429;Cardiomyopathy
+4254;425;Other primary cardiomyopathies
+426;420-429;Conduction disorders
+4260;426;Atrioventricular block, complete
+4263;426;Other left bundle branch block
+4264;426;Right bundle branch block
+427;420-429;Cardiac dysrhythmias
+4270;427;Paroxysmal supraventricular tachycardia
+4271;427;Paroxysmal ventricular tachycardia
+4275;427;Cardiac arrest
+428;420-429;Heart failure
+4280;428;Congestive heart failure, unspecified
+429;420-429;Ill-defined descriptions and complications of heart disease
+4299;429;Heart disease, unspecified
+432;430-438;Other and unspecified intracranial hemorrhage
+4321;432;Subdural hemorrhage
+435;430-438;Transient cerebral ischemia
+4359;435;Unspecified transient cerebral ischemia
+437;430-438;Other and ill-defined cerebrovascular disease
+4370;437;Cerebral atherosclerosis
+4373;437;Cerebral aneurysm, nonruptured
+440-449;390-459;Diseases Of Arteries, Arterioles, And Capillaries
+440;440-449;Atherosclerosis
+4400;440;Atherosclerosis of aorta
+4401;440;Atherosclerosis of renal artery
+4404;440;Chronic total occlusion of artery of the extremities
+441;440-449;Aortic aneurysm and dissection
+4412;441;Thoracic aneurysm without mention of rupture
+4414;441;Abdominal aneurysm without mention of rupture
+443;440-449;Other peripheral vascular disease
+4430;443;Raynaud's syndrome
+4439;443;Peripheral vascular disease, unspecified
+455;451-459;Hemorrhoids
+4550;455;Internal hemorrhoids without mention of complication
+4552;455;Internal hemorrhoids with other complication
+4556;455;Unspecified hemorrhoids without mention of complication
+456;451-459;Varicose veins of other sites
+4561;456;Esophageal varices without mention of bleeding
+457;451-459;Noninfectious disorders of lymphatic channels
+4571;457;Other lymphedema
+458;451-459;Hypotension
+4580;458;Orthostatic hypotension
+4588;458;Other specified hypotension
+4589;458;Hypotension, unspecified
+459;451-459;Other disorders of circulatory system
+4592;459;Compression of vein
+465;460-466;Acute upper respiratory infections of multiple or unspecified sites
+4659;465;Acute upper respiratory infections of unspecified site
+466;460-466;Acute bronchitis and bronchiolitis
+4660;466;Acute bronchitis
+470-478;460-519;Other Diseases Of Upper Respiratory Tract
+473;470-478;Chronic sinusitis
+4739;473;Unspecified sinusitis (chronic)
+477;470-478;Allergic rhinitis
+4779;477;Allergic rhinitis, cause unspecified
+482;480-488;Other bacterial pneumonia
+4829;482;Bacterial pneumonia, unspecified
+487;480-488;Influenza
+4871;487;Influenza with other respiratory manifestations
+492;490-496;Emphysema
+4928;492;Other emphysema
+494;490-496;Bronchiectasis
+4940;494;Bronchiectasis without acute exacerbation
+500-508;460-519;Pneumoconioses And Other Lung Diseases Due To External Agents
+507;500-508;Pneumonitis due to solids and liquids
+5070;507;Pneumonitis due to inhalation of food or vomitus
+511;510-519;Pleurisy
+5119;511;Unspecified pleural effusion
+512;510-519;Pneumothorax and air leak
+5121;512;Iatrogenic pneumothorax
+518;510-519;Other diseases of lung
+5180;518;Pulmonary collapse
+5184;518;Acute edema of lung, unspecified
+530-539;520-579;Diseases Of Esophagus, Stomach, And Duodenum
+530;530-539;Diseases of esophagus
+5303;530;Stricture and stenosis of esophagus
+5305;530;Dyskinesia of esophagus
+536;530-539;Disorders of function of stomach
+5363;536;Gastroparesis
+5368;536;Dyspepsia and other specified disorders of function of stomach
+540-543;520-579;Appendicitis
+540;540-543;Acute appendicitis
+5409;540;Acute appendicitis without mention of peritonitis
+550-553;520-579;Hernia Of Abdominal Cavity
+553;550-553;Other hernia of abdominal cavity without mention of obstruction or gangrene
+5531;553;Umbilical hernia without mention of obstruction or gangrene
+5533;553;Diaphragmatic hernia without mention of obstruction or gangrene
+555-558;520-579;Noninfective Enteritis And Colitis
+555;555-558;Regional enteritis
+5559;555;Regional enteritis of unspecified site
+556;555-558;Ulcerative enterocolitis
+5569;556;Ulcerative colitis, unspecified
+557;555-558;Vascular insufficiency of intestine
+5570;557;Acute vascular insufficiency of intestine
+5579;557;Unspecified vascular insufficiency of intestine
+558;555-558;Other and unspecified noninfectious gastroenteritis and colitis
+5589;558;Other and unspecified noninfectious gastroenteritis and colitis
+560-569;520-579;Other Diseases Of Intestines And Peritoneum
+560;560-569;Intestinal obstruction without mention of hernia
+5601;560;Paralytic ileus
+5609;560;Unspecified intestinal obstruction
+564;560-569;Functional digestive disorders not elsewhere classified
+5641;564;Irritable bowel syndrome
+568;560-569;Other disorders of peritoneum
+5680;568;Peritoneal adhesions (postoperative) (postinfection)
+569;560-569;Other disorders of intestine
+5693;569;Hemorrhage of rectum and anus
+571;570-579;Chronic liver disease and cirrhosis
+5711;571;Acute alcoholic hepatitis
+5712;571;Alcoholic cirrhosis of liver
+5715;571;Cirrhosis of liver without mention of alcohol
+5718;571;Other chronic nonalcoholic liver disease
+572;570-579;Liver abscess and sequelae of chronic liver disease
+5722;572;Hepatic encephalopathy
+5723;572;Portal hypertension
+5724;572;Hepatorenal syndrome
+5728;572;Other sequelae of chronic liver disease
+573;570-579;Other disorders of liver
+5733;573;Hepatitis, unspecified
+5738;573;Other specified disorders of liver
+576;570-579;Other disorders of biliary tract
+5761;576;Cholangitis
+5762;576;Obstruction of bile duct
+5768;576;Other specified disorders of biliary tract
+577;570-579;Diseases of pancreas
+5770;577;Acute pancreatitis
+5771;577;Chronic pancreatitis
+5772;577;Cyst and pseudocyst of pancreas
+5778;577;Other specified diseases of pancreas
+578;570-579;Gastrointestinal hemorrhage
+5780;578;Hematemesis
+5781;578;Blood in stool
+5789;578;Hemorrhage of gastrointestinal tract, unspecified
+579;570-579;Intestinal malabsorption
+5790;579;Celiac disease
+580-589;580-629;Nephritis, Nephrotic Syndrome, And Nephrosis
+583;580-589;Nephritis and nephropathy not specified as acute or chronic
+5839;583;Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney
+584;580-589;Acute kidney failure
+5845;584;Acute kidney failure with lesion of tubular necrosis
+5849;584;Acute kidney failure, unspecified
+585;580-589;Chronic kidney disease (ckd)
+5852;585;Chronic kidney disease, Stage II (mild)
+5853;585;Chronic kidney disease, Stage III (moderate)
+5854;585;Chronic kidney disease, Stage IV (severe)
+5855;585;Chronic kidney disease, Stage V
+5856;585;End stage renal disease
+5859;585;Chronic kidney disease, unspecified
+592;590-599;Calculus of kidney and ureter
+5920;592;Calculus of kidney
+5921;592;Calculus of ureter
+593;590-599;Other disorders of kidney and ureter
+5939;593;Unspecified disorder of kidney and ureter
+599;590-599;Other disorders of urethra and urinary tract
+5990;599;Urinary tract infection, site not specified
+617-629;580-629;Other Disorders Of Female Genital Tract
+620;617-629;Noninflammatory disorders of ovary fallopian tube and broad ligament
+6202;620;Other and unspecified ovarian cyst
+625;617-629;Pain and other symptoms associated with female genital organs
+6256;625;Stress incontinence, female
+626;617-629;Disorders of menstruation and other abnormal bleeding from female genital tract
+6262;626;Excessive or frequent menstruation
+680-709;ROOT;Diseases Of The Skin And Subcutaneous Tissue
+680-686;680-709;Infections Of Skin And Subcutaneous Tissue
+682;680-686;Other cellulitis and abscess
+6820;682;Cellulitis and abscess of face
+6822;682;Cellulitis and abscess of trunk
+6823;682;Cellulitis and abscess of upper arm and forearm
+6824;682;Cellulitis and abscess of hand, except fingers and thumb
+6826;682;Cellulitis and abscess of leg, except foot
+6827;682;Cellulitis and abscess of foot, except toes
+690-698;680-709;Other Inflammatory Conditions Of Skin And Subcutaneous Tissue
+692;690-698;Contact dermatitis and other eczema
+6929;692;Contact dermatitis and other eczema, unspecified cause
+693;690-698;Dermatitis due to substances taken internally
+6930;693;Dermatitis due to drugs and medicines taken internally
+696;690-698;Psoriasis and similar disorders
+6960;696;Psoriatic arthropathy
+6961;696;Other psoriasis
+698;690-698;Pruritus and related conditions
+6989;698;Unspecified pruritic disorder
+700-709;680-709;Other Diseases Of Skin And Subcutaneous Tissue
+707;700-709;Chronic ulcer of skin
+7078;707;Chronic ulcer of other specified sites
+710-719;710-739;Arthropathies And Related Disorders
+710;710-719;Diffuse diseases of connective tissue
+7100;710;Systemic lupus erythematosus
+7102;710;Sicca syndrome
+713;710-719;Arthropathy associated with other disorders classified elsewhere
+7135;713;Arthropathy associated with neurological disorders
+714;710-719;Rheumatoid arthritis and other inflammatory polyarthropathies
+7140;714;Rheumatoid arthritis
+719;710-719;Other and unspecified disorders of joint
+7197;719;Difficulty in walking
+720-724;710-739;Dorsopathies
+721;720-724;Spondylosis and allied disorders
+7210;721;Cervical spondylosis without myelopathy
+7211;721;Cervical spondylosis with myelopathy
+7213;721;Lumbosacral spondylosis without myelopathy
+722;720-724;Intervertebral disc disorders
+7220;722;Displacement of cervical intervertebral disc without myelopathy
+723;720-724;Other disorders of cervical region
+7230;723;Spinal stenosis in cervical region
+7231;723;Cervicalgia
+724;720-724;Other and unspecified disorders of back
+7242;724;Lumbago
+7243;724;Sciatica
+7244;724;Thoracic or lumbosacral neuritis or radiculitis, unspecified
+7245;724;Backache, unspecified
+729;725-729;Other disorders of soft tissues
+7291;729;Myalgia and myositis, unspecified
+7295;729;Pain in limb
+730-739;710-739;Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities
+731;730-739;Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+7318;731;Other bone involvement in diseases classified elsewhere
+738;730-739;Other acquired musculoskeletal deformity
+7384;738;Acquired spondylolisthesis
+740-759;ROOT;Congenital Anomalies
+740--759;740-759;Congenital Anomalies
+745;740--759;Bulbus cordis anomalies and anomalies of cardiac septal closure
+7455;745;Ostium secundum type atrial septal defect
+746;740--759;Other congenital anomalies of heart
+7464;746;Congenital insufficiency of aortic valve
+747;740--759;Other congenital anomalies of circulatory system
+7470;747;Patent ductus arteriosus
+760-763;760-779;Maternal Causes Of Perinatal Morbidity And Mortality
+761;760-763;Fetus or newborn affected by maternal complications of pregnancy
+7617;761;Malpresentation before labor affecting fetus or newborn
+766;764-779;Disorders relating to long gestation and high birthweight
+7661;766;"Other ""heavy-for-dates"" infants"
+770;764-779;Other respiratory conditions of fetus and newborn
+7706;770;Transitory tachypnea of newborn
+774;764-779;Other perinatal jaundice
+7742;774;Neonatal jaundice associated with preterm delivery
+7746;774;Unspecified fetal and neonatal jaundice
+775;764-779;Endocrine and metabolic disturbances specific to the fetus and newborn
+7750;775;"Syndrome of ""infant of a diabetic mother"""
+7756;775;Neonatal hypoglycemia
+776;764-779;Hematological disorders of newborn
+7766;776;Anemia of prematurity
+778;764-779;Conditions involving the integument and temperature regulation of fetus and newborn
+7783;778;Other hypothermia of newborn
+7788;778;Other specified conditions involving the integument of fetus and newborn
+0084;008;Intestinal infection due to other specified bacteria
+00845;0084;Intestinal infection due to Clostridium difficile
+0384;038;Septicemia due to other gram-negative organisms
+03842;0384;Septicemia due to escherichia coli [E. coli]
+03849;0384;Other septicemia due to gram-negative organisms
+0410;041;Streptococcus infection in conditions classified elsewhere and of unspecified site
+04102;0410;Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B
+04104;0410;Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]
+04109;0410;Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus
+0411;041;Staphylococcus infection in conditions classified elsewhere and of unspecified site
+04111;0411;Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+04112;0411;Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+04119;0411;Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus
+0414;041;Escherichia coli [e. coli] infection in conditions classified elsewhere and of unspecified site
+04141;0414;Shiga toxin-producing Escherichia coli [E. coli] (STEC) O157
+04142;0414;Other specified Shiga toxin-producing Escherichia coli [E. coli] (STEC)
+04143;0414;Shiga toxin-producing Escherichia coli [E. coli] (STEC), unspecified
+04149;0414;Other and unspecified Escherichia coli [E. coli]
+0418;041;Other specified bacterial infections in conditions classified elsewhere and of unspecified site
+04185;0418;Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms
+04186;0418;Helicobacter pylori [H. pylori]
+070-079;001-139;Other Diseases Due To Viruses And Chlamydiae
+070;070-079;Viral hepatitis
+0703;070;Viral hepatitis b without mention of hepatic coma
+07030;0703;Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta
+07032;0703;Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+0704;070;Other specified viral hepatitis with hepatic coma
+07044;0704;Chronic hepatitis C with hepatic coma
+0705;070;Other specified viral hepatitis without mention of hepatic coma
+07054;0705;Chronic hepatitis C without mention of hepatic coma
+0707;070;Unspecified viral hepatitis c
+07070;0707;Unspecified viral hepatitis C without hepatic coma
+079;070-079;Viral and chlamydial infection in conditions classified elsewhere and of unspecified site
+0799;079;Unspecified viral and chlamydial infections
+07999;0799;Unspecified viral infection
+1988;198;Secondary malignant neoplasm of other specified sites
+19889;1988;Secondary malignant neoplasm of other specified sites
+200-209;140-239;Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue
+202;200-209;Other malignant neoplasms of lymphoid and histiocytic tissue
+2028;202;Other malignant lymphomas
+20280;2028;Other malignant lymphomas, unspecified site, extranodal and solid organ sites
+203;200-209;Multiple myeloma and immunoproliferative neoplasms
+2030;203;Multiple myeloma
+20300;2030;Multiple myeloma, without mention of having achieved remission
+204;200-209;Lymphoid leukemia
+2041;204;Lymphoid leukemia chronic
+20410;2041;Chronic lymphoid leukemia, without mention of having achieved remission
+205;200-209;Myeloid leukemia
+2050;205;Myeloid leukemia acute
+20500;2050;Acute myeloid leukemia, without mention of having achieved remission
+2387;238;Neoplasm of uncertain behavior of other lymphatic and hematopoietic tissues
+23871;2387;Essential thrombocythemia
+23875;2387;Myelodysplastic syndrome, unspecified
+242;240-246;Thyrotoxicosis with or without goiter
+2420;242;Toxic diffuse goiter
+24200;2420;Toxic diffuse goiter without mention of thyrotoxic crisis or storm
+2429;242;Thyrotoxicosis without mention of goiter or other cause
+24290;2429;Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm
+249;249-259;Secondary diabetes mellitus
+2490;249;Secondary diabetes mellitus without mention of complication
+24900;2490;Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified
+250;249-259;Diabetes mellitus
+2500;250;Diabetes mellitus without mention of complication
+25000;2500;Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled
+25001;2500;Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled
+25002;2500;Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled
+2501;250;Diabetes with ketoacidosis
+25012;2501;Diabetes with ketoacidosis, type II or unspecified type, uncontrolled
+25013;2501;Diabetes with ketoacidosis, type I [juvenile type], uncontrolled
+2504;250;Diabetes with renal manifestations
+25040;2504;Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled
+25041;2504;Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled
+25042;2504;Diabetes with renal manifestations, type II or unspecified type, uncontrolled
+25043;2504;Diabetes with renal manifestations, type I [juvenile type], uncontrolled
+2505;250;Diabetes with ophthalmic manifestations
+25050;2505;Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled
+25051;2505;Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled
+25052;2505;Diabetes with ophthalmic manifestations, type II or unspecified type, uncontrolled
+25053;2505;Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled
+2506;250;Diabetes with neurological manifestations
+25060;2506;Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled
+25061;2506;Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled
+25062;2506;Diabetes with neurological manifestations, type II or unspecified type, uncontrolled
+25063;2506;Diabetes with neurological manifestations, type I [juvenile type], uncontrolled
+2507;250;Diabetes with peripheral circulatory disorders
+25070;2507;Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled
+25072;2507;Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled
+2508;250;Diabetes with other specified manifestations
+25080;2508;Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled
+25081;2508;Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled
+25082;2508;Diabetes with other specified manifestations, type II or unspecified type, uncontrolled
+25083;2508;Diabetes with other specified manifestations, type I [juvenile type], uncontrolled
+2509;250;Diabetes with unspecified complication
+25092;2509;Diabetes with unspecified complication, type II or unspecified type, uncontrolled
+252;249-259;Disorders of parathyroid gland
+2520;252;Hyperparathyroidism
+25200;2520;Hyperparathyroidism, unspecified
+25201;2520;Primary hyperparathyroidism
+255;249-259;Disorders of adrenal glands
+2554;255;Corticoadrenal insufficiency
+25541;2554;Glucocorticoid deficiency
+2740;274;Gouty arthropathy
+27401;2740;Acute gouty arthropathy
+2754;275;Disorders of calcium metabolism
+27541;2754;Hypocalcemia
+27542;2754;Hypercalcemia
+2765;276;Volume depletion disorder
+27650;2765;Volume depletion, unspecified
+27651;2765;Dehydration
+27652;2765;Hypovolemia
+2766;276;Fluid overload disorder
+27661;2766;Transfusion associated circulatory overload
+27669;2766;Other fluid overload
+277;270-279;Other and unspecified disorders of metabolism
+2773;277;Amyloidosis
+27739;2773;Other amyloidosis
+278;270-279;Overweight, obesity and other hyperalimentation
+2780;278;Overweight and obesity
+27800;2780;Obesity, unspecified
+27801;2780;Morbid obesity
+284;280--289;Aplastic anemia and other bone marrow failure syndromes
+2841;284;Pancytopenia
+28411;2841;Antineoplastic chemotherapy induced pancytopenia
+28412;2841;Other drug-induced pancytopenia
+28419;2841;Other pancytopenia
+2852;285;Anemia of chronic illness
+28521;2852;Anemia in chronic kidney disease
+28522;2852;Anemia in neoplastic disease
+28529;2852;Anemia of other chronic disease
+2873;287;Primary thrombocytopenia
+28731;2873;Immune thrombocytopenic purpura
+2874;287;Secondary thrombocytopenia
+28741;2874;Posttransfusion purpura
+28749;2874;Other secondary thrombocytopenia
+2880;288;Neutropenia
+28800;2880;Neutropenia, unspecified
+28803;2880;Drug induced neutropenia
+2885;288;Decreased white blood cell count
+28850;2885;Leukocytopenia, unspecified
+2886;288;Elevated white blood cell count
+28860;2886;Leukocytosis, unspecified
+289;280--289;Other diseases of blood and blood-forming organs
+2898;289;Other specified diseases of blood and blood-forming organs
+28981;2898;Primary hypercoagulable state
+327;320-327;Organic sleep disorders
+3272;327;Organic sleep apnea
+32723;3272;Obstructive sleep apnea (adult)(pediatric)
+3318;331;Other cerebral degeneration
+33182;3318;Dementia with lewy bodies
+33183;3318;Mild cognitive impairment, so stated
+3339;333;Other and unspecified extrapyramidal diseases and abnormal movement disorders
+33394;3339;Restless legs syndrome (RLS)
+3381;338;Acute pain
+33818;3381;Other acute postoperative pain
+33819;3381;Other acute pain
+3382;338;Chronic pain
+33829;3382;Other chronic pain
+342;340-349;Hemiplegia and hemiparesis
+3429;342;Hemiplegia unspecified
+34290;3429;Hemiplegia, unspecified, affecting unspecified side
+345;340-349;Epilepsy and recurrent seizures
+3451;345;Generalized convulsive epilepsy
+34510;3451;Generalized convulsive epilepsy, without mention of intractable epilepsy
+3454;345;Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures
+34540;3454;Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+3455;345;Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures
+34550;3455;Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy
+3459;345;Epilepsy unspecified
+34590;3459;Epilepsy, unspecified, without mention of intractable epilepsy
+346;340-349;Migraine
+3469;346;Migraine unspecified
+34690;3469;Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus
+3483;348;Encephalopathy, not elsewhere classified
+34830;3483;Encephalopathy, unspecified
+34831;3483;Metabolic encephalopathy
+34839;3483;Other encephalopathy
+3488;348;Other conditions of brain
+34889;3488;Other conditions of brain
+349;340-349;Other and unspecified disorders of the nervous system
+3498;349;Other specified disorders of nervous system
+34982;3498;Toxic encephalopathy
+362;360-379;Other retinal disorders
+3620;362;Diabetic retinopathy
+36201;3620;Background diabetic retinopathy
+3625;362;Degeneration of macula and posterior pole of retina
+36250;3625;Macular degeneration (senile), unspecified
+3696;369;Profound vision impairment one eye
+36960;3696;Profound impairment, one eye, impairment level not further specified
+386;380-389;Vertiginous syndromes and other disorders of vestibular system
+3861;386;Other and unspecified peripheral vertigo
+38611;3861;Benign paroxysmal positional vertigo
+403;401-405;Hypertensive chronic kidney disease
+4031;403;Benign hypertensive renal disease
+40310;4031;Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified
+4039;403;Unspecified hypertensive renal disease
+40390;4039;Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified
+40391;4039;Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease
+410;410-414;Acute myocardial infarction
+4107;410;Subendocardial infarction
+41071;4107;Subendocardial infarction, initial episode of care
+41072;4107;Subendocardial infarction, subsequent episode of care
+4118;411;Other acute and subacute forms of ischemic heart disease
+41189;4118;Other acute and subacute forms of ischemic heart disease, other
+4140;414;Coronary atherosclerosis
+41400;4140;Coronary atherosclerosis of unspecified type of vessel, native or graft
+41401;4140;Coronary atherosclerosis of native coronary artery
+41402;4140;Coronary atherosclerosis of autologous vein bypass graft
+415;415-417;Acute pulmonary heart disease
+4151;415;Pulmonary embolism and infarction
+41519;4151;Other pulmonary embolism and infarction
+4261;426;Atrioventricular block other and unspecified
+42611;4261;First degree atrioventricular block
+4273;427;Atrial fibrillation and flutter
+42731;4273;Atrial fibrillation
+42732;4273;Atrial flutter
+4274;427;Ventricular fibrillation and flutter
+42741;4274;Ventricular fibrillation
+4278;427;Other specified cardiac dysrhythmias
+42781;4278;Sinoatrial node dysfunction
+42789;4278;Other specified cardiac dysrhythmias
+4282;428;Systolic heart failure
+42820;4282;Systolic heart failure, unspecified
+42821;4282;Acute systolic heart failure
+42822;4282;Chronic systolic heart failure
+42823;4282;Acute on chronic systolic heart failure
+4283;428;Diastolic heart failure
+42830;4283;Diastolic heart failure, unspecified
+42831;4283;Acute diastolic heart failure
+42832;4283;Chronic diastolic heart failure
+42833;4283;Acute on chronic diastolic heart failure
+4284;428;Combined systolic and diastolic heart failure
+42842;4284;Chronic combined systolic and diastolic heart failure
+42843;4284;Acute on chronic combined systolic and diastolic heart failure
+433;430-438;Occlusion and stenosis of precerebral arteries
+4331;433;Occlusion and stenosis of carotid artery
+43310;4331;Occlusion and stenosis of carotid artery without mention of cerebral infarction
+43311;4331;Occlusion and stenosis of carotid artery with cerebral infarction
+4333;433;Occlusion and stenosis of multiple and bilateral precerebral arteries
+43330;4333;Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+434;430-438;Occlusion of cerebral arteries
+4341;434;Cerebral embolism
+43411;4341;Cerebral embolism with cerebral infarction
+4349;434;Cerebral artery occlusion unspecified
+43491;4349;Cerebral artery occlusion, unspecified with cerebral infarction
+438;430-438;Late effects of cerebrovascular disease
+4381;438;Speech and language deficits
+43811;4381;Late effects of cerebrovascular disease, aphasia
+4382;438;Hemiplegia/hemiparesis
+43820;4382;Late effects of cerebrovascular disease, hemiplegia affecting unspecified side
+4388;438;Other late effects of cerebrovascular disease
+43882;4388;Other late effects of cerebrovascular disease, dysphagia
+43883;4388;Other late effects of cerebrovascular disease, facial weakness
+43889;4388;Other late effects of cerebrovascular disease
+4402;440;Atherosclerosis of native arteries of the extremities
+44020;4402;Atherosclerosis of native arteries of the extremities, unspecified
+44021;4402;Atherosclerosis of native arteries of the extremities with intermittent claudication
+44022;4402;Atherosclerosis of native arteries of the extremities with rest pain
+44023;4402;Atherosclerosis of native arteries of the extremities with ulceration
+44024;4402;Atherosclerosis of native arteries of the extremities with gangrene
+4438;443;Other specified peripheral vascular diseases
+44381;4438;Peripheral angiopathy in diseases classified elsewhere
+444;440-449;Arterial embolism and thrombosis
+4442;444;Embolism and thrombosis of arteries of the extremities
+44422;4442;Arterial embolism and thrombosis of lower extremity
+451;451-459;Phlebitis and thrombophlebitis
+4518;451;Phlebitis and thrombophlebitis of other sites
+45182;4518;Phlebitis and thrombophlebitis of superficial veins of upper extremities
+453;451-459;Other venous embolism and thrombosis
+4534;453;Acute venous embolism and thrombosis of deep vessels of lower extremity
+45341;4534;Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+45342;4534;Acute venous embolism and thrombosis of deep vessels of distal lower extremity
+4538;453;Acute venous embolism and thrombosis of other specified veins
+45381;4538;Acute venous embolism and thrombosis of superficial veins of upper extremity
+45382;4538;Acute venous embolism and thrombosis of deep veins of upper extremity
+45383;4538;Acute venous embolism and thrombosis of upper extremity, unspecified
+45384;4538;Acute venous embolism and thrombosis of axillary veins
+45385;4538;Acute venous embolism and thrombosis of subclavian veins
+45386;4538;Acute venous embolism and thrombosis of internal jugular veins
+45387;4538;Acute venous embolism and thrombosis of other thoracic veins
+45389;4538;Acute venous embolism and thrombosis of other specified veins
+4562;456;Esophageal varices in diseases classified elsewhere
+45621;4562;Esophageal varices in diseases classified elsewhere, without mention of bleeding
+4582;458;Iatrogenic hypotension
+45829;4582;Other iatrogenic hypotension
+4598;459;Other specified disorders of circulatory system
+45981;4598;Venous (peripheral) insufficiency, unspecified
+491;490-496;Chronic bronchitis
+4912;491;Obstructive chronic bronchitis
+49121;4912;Obstructive chronic bronchitis with (acute) exacerbation
+493;490-496;Asthma
+4932;493;Chronic obstructive asthma
+49320;4932;Chronic obstructive asthma, unspecified
+49322;4932;Chronic obstructive asthma with (acute) exacerbation
+4939;493;Asthma unspecified
+49390;4939;Asthma,unspecified type, unspecified
+49392;4939;Asthma, unspecified type, with (acute) exacerbation
+5118;511;Other specified forms of pleural effusion except tuberculous
+51181;5118;Malignant pleural effusion
+51189;5118;Other specified forms of effusion, except tuberculous
+5185;518;Pulmonary insufficiency following trauma and surgery
+51851;5185;Acute respiratory failure following trauma and surgery
+51852;5185;Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery
+51853;5185;Acute and chronic respiratory failure following trauma and surgery
+5188;518;Other diseases of lung
+51881;5188;Acute respiratory failure
+51884;5188;Acute and chronic respiratory failure
+51889;5188;Other diseases of lung, not elsewhere classified
+519;510-519;Other diseases of respiratory system
+5191;519;Other diseases of trachea and bronchus not elsewhere classified
+51919;5191;Other diseases of trachea and bronchus
+5301;530;Esophagitis
+53010;5301;Esophagitis, unspecified
+53019;5301;Other esophagitis
+5308;530;Other specified disorders of esophagus
+53081;5308;Esophageal reflux
+53085;5308;Barrett's esophagus
+531;530-539;Gastric ulcer
+5319;531;Gastric ulcer unspecified as acute or chronic without mention of hemorrhage or perforation
+53190;5319;Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction
+533;530-539;Peptic ulcer site unspecified
+5339;533;Peptic ulcer of unspecified site unspecified as acute or chronic without mention of hemorrhage or perforation
+53390;5339;Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction
+535;530-539;Gastritis and duodenitis
+5354;535;Other specified gastritis
+53540;5354;Other specified gastritis, without mention of hemorrhage
+5355;535;Unspecified gastritis and gastroduodenitis
+53550;5355;Unspecified gastritis and gastroduodenitis, without mention of hemorrhage
+5356;535;Duodenitis
+53560;5356;Duodenitis, without mention of hemorrhage
+537;530-539;Other disorders of stomach and duodenum
+5378;537;Other specified disorders of stomach and duodenum
+53783;5378;Angiodysplasia of stomach and duodenum with hemorrhage
+53789;5378;Other specified disorders of stomach and duodenum
+550;550-553;Inguinal hernia
+5509;550;Inguinal hernia without mention of obstruction or gangrene
+55090;5509;Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)
+5532;553;Ventral hernia without mention of obstruction or gangrene
+55321;5532;Incisional hernia without mention of obstruction or gangrene
+5608;560;Other specified intestinal obstruction
+56081;5608;Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)
+56089;5608;Other specified intestinal obstruction
+562;560-569;Diverticula of intestine
+5621;562;Diverticula of colon
+56210;5621;Diverticulosis of colon (without mention of hemorrhage)
+56211;5621;Diverticulitis of colon (without mention of hemorrhage)
+56212;5621;Diverticulosis of colon with hemorrhage
+5640;564;Constipation
+56400;5640;Constipation, unspecified
+56409;5640;Other constipation
+567;560-569;Peritonitis and retroperitoneal infections
+5672;567;Other suppurative peritonitis
+56722;5672;Peritoneal abscess
+56723;5672;Spontaneous bacterial peritonitis
+5698;569;Other specified disorders of intestine
+56981;5698;Fistula of intestine, excluding rectum and anus
+574;570-579;Cholelithiasis
+5740;574;Calculus of gallbladder with acute cholecystitis
+57400;5740;Calculus of gallbladder with acute cholecystitis, without mention of obstruction
+5741;574;Calculus of gallbladder with other cholecystitis
+57410;5741;Calculus of gallbladder with other cholecystitis, without mention of obstruction
+5742;574;Calculus of gallbladder without mention of cholecystitis
+57420;5742;Calculus of gallbladder without mention of cholecystitis, without mention of obstruction
+5745;574;Calculus of bile duct without mention of cholecystitis
+57450;5745;Calculus of bile duct without mention of cholecystitis, without mention of obstruction
+57451;5745;Calculus of bile duct without mention of cholecystitis, with obstruction
+5838;583;Nephritis and nephropathy not specified as acute or chronic with other specified pathological lesion in kidney
+58381;5838;Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere
+588;580-589;Disorders resulting from impaired renal function
+5888;588;Other specified disorders resulting from impaired renal function
+58881;5888;Secondary hyperparathyroidism (of renal origin)
+590;590-599;Infections of kidney
+5901;590;Acute pyelonephritis
+59010;5901;Acute pyelonephritis without lesion of renal medullary necrosis
+5908;590;Other pyelonephritis or pyonephrosis not specified as acute or chronic
+59080;5908;Pyelonephritis, unspecified
+596;590-599;Other disorders of bladder
+5965;596;Other functional disorders of bladder
+59654;5965;Neurogenic bladder NOS
+5997;599;Hematuria
+59970;5997;Hematuria, unspecified
+59971;5997;Gross hematuria
+59972;5997;Microscopic hematuria
+600-608;580-629;Diseases Of Male Genital Organs
+600;600-608;Hyperplasia of prostate
+6000;600;Hypertrophy (benign) of prostate
+60000;6000;Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+60001;6000;Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+607;600-608;Disorders of penis
+6078;607;Other specified disorders of penis
+60784;6078;Impotence of organic origin
+681;680-686;Cellulitis and abscess of finger and toe
+6811;681;Cellulitis and abscess of toe
+68110;6811;Cellulitis and abscess of toe, unspecified
+7070;707;Pressure ulcer
+70703;7070;Pressure ulcer, lower back
+70705;7070;Pressure ulcer, buttock
+70707;7070;Pressure ulcer, heel
+7071;707;Ulcer of lower limbs, except decubitus ulcer
+70712;7071;Ulcer of calf
+70713;7071;Ulcer of ankle
+70714;7071;Ulcer of heel and midfoot
+70715;7071;Ulcer of other part of foot
+70719;7071;Ulcer of other part of lower limb
+7072;707;Pressure ulcer stages
+70720;7072;Pressure ulcer, unspecified stage
+70721;7072;Pressure ulcer, stage I
+70722;7072;Pressure ulcer, stage II
+70723;7072;Pressure ulcer, stage III
+70724;7072;Pressure ulcer, stage IV
+70725;7072;Pressure ulcer, unstageable
+715;710-719;Osteoarthrosis and allied disorders
+7153;715;Osteoarthrosis localized not specified whether primary or secondary
+71535;7153;Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh
+71536;7153;Osteoarthrosis, localized, not specified whether primary or secondary, lower leg
+7159;715;Osteoarthrosis unspecified whether generalized or localized
+71590;7159;Osteoarthrosis, unspecified whether generalized or localized, site unspecified
+71595;7159;Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh
+71596;7159;Osteoarthrosis, unspecified whether generalized or localized, lower leg
+716;710-719;Other and unspecified arthropathies
+7169;716;Unspecified arthropathy
+71690;7169;Arthropathy, unspecified, site unspecified
+7194;719;Pain in joint
+71941;7194;Pain in joint, shoulder region
+71945;7194;Pain in joint, pelvic region and thigh
+71946;7194;Pain in joint, lower leg
+7219;721;Spondylosis of unspecified site
+72190;7219;Spondylosis of unspecified site, without mention of myelopathy
+7221;722;Displacement of thoracic or lumbar intervertebral disc without myelopathy
+72210;7221;Displacement of lumbar intervertebral disc without myelopathy
+7225;722;Degeneration of thoracic or lumbar intervertebral disc
+72252;7225;Degeneration of lumbar or lumbosacral intervertebral disc
+7240;724;Spinal stenosis other than cervical
+72400;7240;Spinal stenosis, unspecified region
+72402;7240;Spinal stenosis, lumbar region, without neurogenic claudication
+72403;7240;Spinal stenosis, lumbar region, with neurogenic claudication
+728;725-729;Disorders of muscle ligament and fascia
+7288;728;Other disorders of muscle ligament and fascia
+72887;7288;Muscle weakness (generalized)
+72888;7288;Rhabdomyolysis
+7298;729;Other musculoskeletal symptoms referable to limbs
+72981;7298;Swelling of limb
+72989;7298;Other musculoskeletal symptoms referable to limbs
+730;730-739;Osteomyelitis periostitis and other infections involving bone
+7300;730;Acute osteomyelitis
+73007;7300;Acute osteomyelitis, ankle and foot
+7302;730;Unspecified osteomyelitis
+73027;7302;Unspecified osteomyelitis, ankle and foot
+733;730-739;Other disorders of bone and cartilage
+7330;733;Osteoporosis
+73300;7330;Osteoporosis, unspecified
+7331;733;Pathologic fracture
+73313;7331;Pathologic fracture of vertebrae
+7339;733;Other and unspecified disorders of bone and cartilage
+73390;7339;Disorder of bone and cartilage, unspecified
+736;730-739;Other acquired deformities of limbs
+7367;736;Other acquired deformities of ankle and foot
+73679;7367;Other acquired deformities of ankle and foot
+737;730-739;Curvature of spine
+7373;737;Kyphoscoliosis and scoliosis
+73730;7373;Scoliosis [and kyphoscoliosis], idiopathic
+757;740--759;Congenital anomalies of the integument
+7573;757;Other specified congenital anomalies of skin
+75733;7573;Congenital pigmentary anomalies of skin
+764;764-779;Slow fetal growth and fetal malnutrition
+7640;764;Light-for-dates infant without mention of fetal malnutrition
+76408;7640;"""Light-for-dates"" without mention of fetal malnutrition, 2,000- 2,499 grams"
+76409;7640;"""Light-for-dates"" without mention of fetal malnutrition, 2,500 grams and over"
+765;764-779;Disorders relating to short gestation and low birthweight
+7651;765;Disorders relating to other preterm infants
+76515;7651;Other preterm infants, 1,250-1,499 grams
+76516;7651;Other preterm infants, 1,500-1,749 grams
+76517;7651;Other preterm infants, 1,750-1,999 grams
+76518;7651;Other preterm infants, 2,000-2,499 grams
+76519;7651;Other preterm infants, 2,500 grams and over
+7652;765;Weeks of gestation
+76526;7652;31-32 completed weeks of gestation
+76527;7652;33-34 completed weeks of gestation
+76528;7652;35-36 completed weeks of gestation
+76529;7652;37 or more completed weeks of gestation
+767;764-779;Birth trauma
+7671;767;Injuries to scalp due to birth trauma
+76719;7671;Other injuries to scalp
+7708;770;Other respiratory problems after birth
+77081;7708;Primary apnea of newborn
+77089;7708;Other respiratory problems after birth
+779;764-779;Other and ill-defined conditions originating in the perinatal period
+7798;779;Other specified conditions originating in the perinatal period
+77981;7798;Neonatal bradycardia
+77989;7798;Other specified conditions originating in the perinatal period

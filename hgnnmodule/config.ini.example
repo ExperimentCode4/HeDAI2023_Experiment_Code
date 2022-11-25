@@ -1,0 +1,33 @@
+[neptune]
+use_logging = false
+neptune_project_id = insert_neptune_project_name
+neptune_token_key = neptune_api_token
+
+
+[general]
+; feat_init, seq_model
+flow = feat_init
+experiment_name = Experiment Name
+; bce, hmcn_out
+loss_func = bce
+; Adam, SGD
+optimizer = Adam
+
+[HSAGE]
+learning_rate = 0.001
+weight_decay = 0.0001
+dropout = 0.001
+
+seed = 0
+h_dim = 128
+n_layers = 5
+
+max_epoch = 10000
+patience = 50
+fanout = 25
+
+validation = True
+use_self_loop = True
+
+mini_batch_flag = True
+batch_size = 8192

@@ -1,0 +1,7 @@
+[mimiciv]
+conn_type = GBQ
+project_id = some-project-name
+
+[neptune]
+neptune_project_id = project/name
+neptune_token_key = neptune_api_token
